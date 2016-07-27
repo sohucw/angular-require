@@ -8,6 +8,6 @@
 
 
 ## 入口文件
- ### index.html  这个就是单页面唯一一个html了
- ### main.js，这个是由requirejs引入的第一个业务js，主要是配置requirejs
- ### router.js，这个是整个网站/app的路由配置，在实际部署中，可以把main.js和router.js合并
+### index.html  这个就是单页面唯一一个html了
+### main.js，这个是由requirejs引入的第一个业务js，主要是配置requirejs
+### router.js，这个是整个网站/app的路由配置，在实际部署中，可以把main.js和router.js合并
